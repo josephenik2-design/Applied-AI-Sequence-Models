@@ -1,4 +1,4 @@
-# Research Proposal: Uncertainty-Aware Vision Transformers for Livestock Behavioural Analysis
+# Research Proposal: Uncertainty Aware Vision Transformers for Livestock Behavioural Analysis
 
 **Author:** Joseph Eniola Kehinde  
 **Target Lab:** PaquetLab, Université Laval  
