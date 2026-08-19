@@ -31,4 +31,17 @@ Critically, existing models are "black boxes." When a model falsely flags a heal
 - **Full-Stack**: My ICT background ensures I can deploy the data-capture hardware (cameras/sensors) this framework relies on.
 
 ## 6. Timeline Alignment
+## 7. Integration with Blockchain & Cyber Resilience (Foundational Framework)
+
+While the core of this proposal focuses on the computer vision architecture, ensuring the **trustworthiness** of the entire system is paramount for real-world agricultural deployment. Farm data is sensitive, and AI models are vulnerable to adversarial attacks. To address this, I will explicitly integrate the theoretical framework for **quantitative cyber resilience assessment** established by Ishchukova et al. (2026).
+
+Specifically, I aim to extend Ishchukova's comprehensive approach to the agricultural AI domain by:
+
+1. **Blockchain-based Data Provenance**: Implementing a lightweight blockchain layer to ensure the integrity and immutability of collected video/skeleton data, preventing tampering from farm to server.
+2. **Resilience Metrics for AI Pipelines**: Adapting her quantitative resilience metrics to evaluate the robustness of my Uncertainty-Aware Vision Transformer against data poisoning, occlusion, and adversarial inputs.
+3. **Trusted Operation**: Applying the principles of "Trusted Operation of Cyber-Physical Systems" (Basan et al., 2023, co-authored by Ishchukova) to the monitoring hardware (cameras, edge devices) used on farms.
+
+This extension bridges my MSc background in Trusted AI/Blockchain with the applied vision work at PaquetLab, ensuring the final deployed system is not only accurate but also verifiably secure and resilient.
+
+*Reference:* Ishchukova, E.; Petrenko, S.; Petrenko, A.; et al. (2026). A Comprehensive Approach to Assessing the Cyber Resilience of Blockchain Platforms. *Sci*, 8(5), 97.
 I complete my MSc in Early 2027. I am available for an **early start in Fall 2026** to begin infrastructure setup.
